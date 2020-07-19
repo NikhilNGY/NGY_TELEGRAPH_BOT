@@ -1,0 +1,24 @@
+{
+  "name": "NGY_TELEGRAPH_BOT",
+  "description": "You can upload photos on @TELEGRAPH_NGY_BOT using this bot.",
+  "repository": "https://github.com/NikhilNGY/TELEGRAPH_NGY_BOT",
+  "logo": "https://telegra.ph/file/99b6e843cf2d1c12503bf.jpg",
+  "keywords": [
+    "bot",
+    "telegram",
+    "telegra.ph",
+    "hasibul",
+    "Bangladesh"
+  ],
+  "env": {
+     "BOT_TOKEN": {
+      "description": "Add your own bot token. Get token from botfather ( @botfather )",
+      "value": ""
+    }
+   },
+   "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
