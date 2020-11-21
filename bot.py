@@ -10,7 +10,7 @@ logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
 def start_cmd(update, context):
-    update.message.reply_text(f"Hello, \n \nWelcome To Telegram IMAGE TO LINK UPLOADER Bot \n \n☛ MY CREATOR ✰ : @NGY_BOT \n \n☛ SUPPORT CHANNEL : @NGY_BOTS \n \nThere are multiple things that I can do: \n👉.♂️ send any text and I can generate a permanent telegra.ph link \n👉 send any text document and I will convert to a telegra.ph page \n👉 send any image as a Telegram document and I can convert it to a telegra.ph/file/ \n \n👉 send /sct TITLE to set a custom title to be used for telegra.ph posts")
+    update.message.reply_text(f"Hello, \n \nWelcome To Telegram IMAGE TO LINK UPLOADER Bot \n \n☛ MY CREATOR ✰ : @NGYNY \n \n☛ SUPPORT CHANNEL : @NGY_CGS \n \nThere are multiple things that I can do: \n👉.♂️ send any text and I can generate a permanent telegra.ph link \n👉 send any text document and I will convert to a telegra.ph page \n👉 send any image as a Telegram document and I can convert it to a telegra.ph/file/ \n \n👉 send /sct TITLE to set a custom title to be used for telegra.ph posts")
 
 
 
